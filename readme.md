@@ -1,6 +1,19 @@
 # Alex Website CV
 
-This repository contains the source code for a personal CV website.
+## Key Features
+
+- **Homepage:** Introduces me and highlights my skills and experience as a front-end developer.
+- **Services Section:** Details the specialized services I offer, including UI/UX design, application development, and web development.
+- **Portfolio:** Showcases featured portfolios of my past projects, including descriptions and technologies used.
+- **Career Path:** Provides insights into my work experiences at companies like Apple, Microsoft, Facebook, and Slack, along with responsibilities and achievements.
+- **Blog:** Features articles related to design, development, and industry insights.
+
+## Technologies Used
+
+- HTML5, CSS3
+- JavaScript
+- Responsive Design
+- Swiper.js for portfolio slider
 
 ## Features
 
@@ -40,3 +53,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 Andrii Dotsenko - [andriidotsenko](https://github.com/andriidotsenko)
+
+Feel free to explore the code and customize it according to your needs!
+
